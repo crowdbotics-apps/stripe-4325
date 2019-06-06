@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT stripe_4325.wsgi:application
